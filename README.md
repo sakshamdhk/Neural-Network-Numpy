@@ -1,4 +1,4 @@
-# Neural Network from Scratch — MNIST Digit Recognition (NumPy)
+# Neural Network from Scratch - MNIST Digit Recognition (NumPy)
 
 A feedforward neural network built entirely from scratch using NumPy to classify handwritten digits from the MNIST dataset.
 
